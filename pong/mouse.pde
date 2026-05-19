@@ -5,8 +5,5 @@ void mouseReleased() {
     gameMRel();
   } else if (mode == PAUSE) {
     pauseMRel();
-  } else if (mode == OPTION) {
-    optionBackMRel();
-    optionMRel();
   }
 }
